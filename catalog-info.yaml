@@ -7,5 +7,5 @@ metadata:
     argocd/app-selector: "backstage_tier=fe"
 spec:
   type: website
-  owner: john@example.com
+  owner: apresti12@gmail.com
   lifecycle: experimental
