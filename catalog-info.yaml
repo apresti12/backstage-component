@@ -4,7 +4,6 @@ metadata:
   name: wildfire
   description: An example of a Backstage application.
   annotations:
-    argocd/proxy-url: '/argocd/api2'
     argocd/app-selector: "tier=cluster"
 spec:
   type: website
