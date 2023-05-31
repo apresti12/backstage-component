@@ -4,7 +4,7 @@ metadata:
   name: wildfire
   description: An example of a Backstage application.
   annotations:
-    argocd/app-selector: "tier=cluster"
+    argocd/app-selector: "backstage_tier=fe"
 spec:
   type: website
   owner: john@example.com
